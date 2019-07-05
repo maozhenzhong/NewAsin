@@ -1,0 +1,7 @@
+build/*.js
+src/assets
+public
+dist
+./vue.config.js
+./package.json
+node_modules
